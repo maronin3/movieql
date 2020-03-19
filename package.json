@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Movie API winth Graphql",
+  "repository": "https://github.com/maronin3/movieql.git",
+  "author": "Maronin"
+}
